@@ -1,0 +1,15 @@
+What is the capital of India?|Delhi|Mumbai|Kolkata|Chennai|1
+What is 5 + 3?|6|7|8|9|3
+Which is the smallest continent?|Africa|Australia|Antarctica|Asia|2
+Which animal is known as the King of the Jungle?|Tiger|Lion|Elephant|Bear|2
+What is the boiling point of water in Celsius?|50|75|100|125|3
+Who wrote the national anthem of India?|Rabindranath Tagore|Mahatma Gandhi|Subhas Chandra Bose|Jawaharlal Nehru|1
+Which planet is closest to the Sun?|Venus|Earth|Mercury|Mars|3
+What is the currency of Japan?|Dollar|Rupee|Euro|Yen|4
+Which color is in the middle of the rainbow?|Red|Blue|Green|Yellow|3
+What is the primary source of energy for life on Earth?|Wind|Sun|Water|Coal|2
+Which day comes after Monday?|Wednesday|Friday|Sunday|Tuesday|4
+How many legs does a spider have?|4|6|8|10|3
+Which is the tallest mountain in the world?|K2|Kilimanjaro|Everest|Denali|3
+What is the largest organ in the human body?|Brain|Heart|Liver|Skin|4
+Which is the fastest land animal?|Cheetah|Tiger|Lion|Horse|1
